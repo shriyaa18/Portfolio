@@ -1,0 +1,14 @@
+#Contact{
+  background-image: url('abc/adam-solomon-WHUDOzd5IYU-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+p{
+  font-size: 70px;
+  font-family: "Amatic SC";
+  color: black;
+  padding: 25px 25px 35px 50px;
+  margin: 90px 1450px 70px 75px;
+  background-color: rgba(255, 255, 255, 0.65);
+}
